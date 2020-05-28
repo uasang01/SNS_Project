@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990992671417",
+    "firebase_url": "https://sns-project-525dc.firebaseio.com",
+    "project_id": "sns-project-525dc",
+    "storage_bucket": "sns-project-525dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990992671417:android:751cd3876d3db7def5b168",
+        "android_client_info": {
+          "package_name": "com.example.sns_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990992671417-gj642rq2irlcg4fkcse81mb0raccn8nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkLtB6WlM8D_KA-iMOwMiy7RmnBzwdHqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990992671417-gj642rq2irlcg4fkcse81mb0raccn8nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
